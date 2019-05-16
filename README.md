@@ -3,6 +3,7 @@ Polynomial Regression AAPL Stock Price Prediction
 
 # Results
 Training Data: 99% Accuracy
+
 Validation Data: 96% Accuracy
 
 General Predictions: 92% Accuracy
